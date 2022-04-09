@@ -4,13 +4,13 @@
   <h5>
   ENG
   <br>
-  Player health bar that you can use in games.<h5>
+  Player health bar that you can use in games. If you press the "space" key, the bar will decrease by 20 out of 100 each time.<h5>
   
 
 <h5>
   TUR
   <br>
-  Oyunlarda kullanabileceğiniz, oyuncu sağlık gösterge barı.<h5>
+  Oyunlarda kullanabileceğiniz, oyuncu sağlık gösterge barı. "Space" tuşuna basarsanız her seferinde 100 üzerinden 20 olmak üzere bar azalacaktır. <h5>
 
 
   <h3 align="left">Connect with me:</h3>
